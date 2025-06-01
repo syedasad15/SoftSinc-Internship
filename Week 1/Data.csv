@@ -1,0 +1,11 @@
+ID,Name,Age,Email,City
+1,Alice,25,alice@example.com,New York
+2,Bob,,bob@example.com,Los Angeles
+3,Charlie,22,,Chicago
+4,,28,david@example.com,Houston
+5,Eva,26,eva@example.com,
+6,Frank,32,frank@example.com,Philadelphia
+7,Grace,,,San Antonio
+8,Hannah,27,hannah@example.com,San Diego
+9,,,,
+10,Julia,23,julia@example.com,San Jose

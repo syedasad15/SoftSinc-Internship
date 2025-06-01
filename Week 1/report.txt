@@ -1,0 +1,16 @@
+Report generated at: 2025-06-01 18:30:12
+
+Summary Statistics:
+      count unique                top freq       mean       std   min   25%  \
+ID     10.0    NaN                NaN  NaN        5.5   3.02765   1.0  3.25   
+Name      8      8              Alice    1        NaN       NaN   NaN   NaN   
+Age     7.0    NaN                NaN  NaN  26.142857  3.338092  22.0  24.0   
+Email     7      7  alice@example.com    1        NaN       NaN   NaN   NaN   
+City      8      8           New York    1        NaN       NaN   NaN   NaN   
+
+        50%   75%   max  
+ID      5.5  7.75  10.0  
+Name    NaN   NaN   NaN  
+Age    26.0  27.5  32.0  
+Email   NaN   NaN   NaN  
+City    NaN   NaN   NaN  
