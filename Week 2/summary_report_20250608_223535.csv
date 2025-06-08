@@ -1,0 +1,23 @@
+Summary Report - 2025-06-08 22:35:35
+
+Cleaned DataFrame Info
+Rows,150
+Columns,6
+Column names,serial_no,sepal_length,sepal_width,petal_length,petal_width,species
+
+Missing Values per Column
+Column,Missing Count
+serial_no,4
+sepal_length,5
+sepal_width,4
+petal_length,4
+petal_width,4
+species,2
+
+Saved Plot Files in 'plots'
+Filename,Size (KB)
+barplot_species_counts_20250608_222443.png,20.66
+hist_sepal_length_20250608_222443.png,28.66
+lineplot_sepal_length_20250608_222443.png,76.03
+
+End of Report
