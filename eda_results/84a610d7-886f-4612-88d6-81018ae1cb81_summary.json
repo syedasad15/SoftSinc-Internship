@@ -1,0 +1,94 @@
+{
+  "shape": [
+    5,
+    5
+  ],
+  "columns": [
+    "id",
+    "name",
+    "age",
+    "major",
+    "score"
+  ],
+  "dtypes": {
+    "id": "int64",
+    "name": "object",
+    "age": "int64",
+    "major": "object",
+    "score": "float64"
+  },
+  "null_counts": {
+    "id": 0,
+    "name": 0,
+    "age": 0,
+    "major": 0,
+    "score": 0
+  },
+  "describe": {
+    "id": {
+      "count": 5.0,
+      "unique": NaN,
+      "top": NaN,
+      "freq": NaN,
+      "mean": 3.0,
+      "std": 1.5811388300841898,
+      "min": 1.0,
+      "25%": 2.0,
+      "50%": 3.0,
+      "75%": 4.0,
+      "max": 5.0
+    },
+    "name": {
+      "count": 5,
+      "unique": 5,
+      "top": "Alice",
+      "freq": 1,
+      "mean": NaN,
+      "std": NaN,
+      "min": NaN,
+      "25%": NaN,
+      "50%": NaN,
+      "75%": NaN,
+      "max": NaN
+    },
+    "age": {
+      "count": 5.0,
+      "unique": NaN,
+      "top": NaN,
+      "freq": NaN,
+      "mean": 21.8,
+      "std": 0.8366600265340756,
+      "min": 21.0,
+      "25%": 21.0,
+      "50%": 22.0,
+      "75%": 22.0,
+      "max": 23.0
+    },
+    "major": {
+      "count": 5,
+      "unique": 4,
+      "top": "Physics",
+      "freq": 2,
+      "mean": NaN,
+      "std": NaN,
+      "min": NaN,
+      "25%": NaN,
+      "50%": NaN,
+      "75%": NaN,
+      "max": NaN
+    },
+    "score": {
+      "count": 5.0,
+      "unique": NaN,
+      "top": NaN,
+      "freq": NaN,
+      "mean": 85.2,
+      "std": 6.879316826546078,
+      "min": 75.0,
+      "25%": 81.5,
+      "50%": 88.5,
+      "75%": 89.0,
+      "max": 92.0
+    }
+  }
+}
